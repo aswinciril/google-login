@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912034347662",
+    "project_id": "login-700fd",
+    "storage_bucket": "login-700fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912034347662:android:32f9705606e4afc66aa7df",
+        "android_client_info": {
+          "package_name": "com.example.glogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1ju3R-k81iTpt_4372kzFzPGuRQLnR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
